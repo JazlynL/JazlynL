@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jazlyn V Luben</h1>
 <h3 align="center">Hello , I'm Jazlyn. I'm a determined software developer from Providence continually learning new concepts and building my skills everyday. I currently work at American Airlines as a baggage handler. I love to travel, explore and learn new things.</h3>
 
-- 🌱 I’m currently learning **React,mySql,SpringBoot,Html**
+- 🌱 I’m currently learning **React,mySql,SpringBoot,JS,Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JazlynL](https://github.com/JazlynL)
 
